@@ -58,7 +58,7 @@ const FormFooter = () => (
       Create an account
     </button>
     <p className='w-[250px]'>
-      By continuing, you are indicating that you have read and agree to the <a href='/tos'>Terms of Service</a> and <a href='privacy'>Privacy Policy.</a>
+      By continuing, you are indicating that you have read and agree to the <a href='/tos'>Terms of Service</a> and <a href='/privacy'>Privacy Policy.</a>
     </p>
     <p>
       Already a member? <a href='/sign-in'>Sign in</a>
